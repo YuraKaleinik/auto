@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Auto</string>
+    <string-array name="audi">
+        <item>AUDI A4</item>
+        <item>AUDI A6</item>
+        <item>AUDI A8</item>
+    </string-array>
+    <string-array name="bmw">
+        <item>BMW 3</item>
+        <item>BMW 5</item>
+        <item>BMW 7</item>
+    </string-array>
+    <string-array name="vw">
+        <item>VW Golf</item>
+        <item>VW Passat</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
